@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I’m Kripalu Sonar - a tech enthusiast with interests in AI, Machine Learning, Computer Science, and Mathematics from IIT Hyderabad. I enjoy building projects that combine logic with creativity, from intelligent systems to full-stack applications. I believe in learning by experimenting, breaking things, and refining ideas until they work.
+I’m Kripalu Sonar - a tech enthusiast with interests in AI, ML, Computer Science, and Mathematics from IIT Hyderabad.
 
 Currently exploring AI-powered applications, and problem-solving through code.
 
