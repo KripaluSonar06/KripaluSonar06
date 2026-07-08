@@ -13,7 +13,6 @@ Currently exploring AI-powered applications, and problem-solving through code.
 
 <!--![Profile views](https://komarev.com/ghpvc/?username=KripaluSonar06&style=flat-square&color=blueviolet)-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KripaluSonar06&theme=dracula&currStreakNumber=EB6F92&background=1f1d2e&border=1f1d2e&ring=F5C076&fire=EA9A97&currStreakLabel=9CCFD8"/></p>
 <!--
 **KripaluSonar06/KripaluSonar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
